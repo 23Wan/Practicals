@@ -36,3 +36,4 @@ print(f"Average = {average:.1f}")
 
 def tesst_author():
     print("Now the author is Yunfei")
+    print("test")
