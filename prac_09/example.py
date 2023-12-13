@@ -16,6 +16,11 @@ average = total / count
 print average
 """
 
+
+def test():
+    print("test")
+
+
 total = 0.0
 count = 0
 
