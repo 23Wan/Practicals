@@ -17,9 +17,6 @@ print average
 """
 
 
-def test():
-    print("test")
-
 
 total = 0.0
 count = 0
@@ -35,3 +32,7 @@ for line in in_file:
 in_file.close()
 average = total / count
 print(f"Average = {average:.1f}")
+
+
+def tesst_author():
+    print("Now the author is Yunfei")
